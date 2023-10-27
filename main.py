@@ -1,2 +1,2 @@
-from hello import hello_word
-print(hello_word)
+from hello import HelloWorld
+HelloWorld("print")
